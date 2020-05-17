@@ -1,2 +1,3 @@
-# Machine-Learning---Logistic-Regression
-In this project I will build a logistic regression model to predict whether a student gets admitted into a university.
+# Machine-Learning---Week 3: Logistic Regression and Regularized Logistic Regression Exercises
+
+This repository is to keep track of my solutions to the Machine Learning course by Andrew Ng on Coursera
